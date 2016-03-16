@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        // put your code here OLA Q ASE
-        ?>
-    </body>
+<title>HTML Tutorial</title>
+<link rel="stylesheet" type="text/css" href="estilobase.css">
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+<p class="uno">Parrafo 1</p>
+<p class="dos">pararfo 2</p>
+
+<a href="index.php" target="">This is a link</a>
+
+</body>
 </html>
